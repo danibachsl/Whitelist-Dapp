@@ -9,7 +9,7 @@ I´m launching my NFT collection named `Crypto Devs`. I want to give my early su
 - Whitelist access should be given to the first `10` users for free who want to get in.
 - There should be a website where people can go and enter into the whitelist.
 
-[Take a look at my Dapp](whitelist-danibachsl.vercel.app) 🚀
+[Take a look at my Dapp](https://whitelist-danibachsl.vercel.app/) 🚀
 
 ---
 
