@@ -11,6 +11,8 @@ I´m launching my NFT collection named `Crypto Devs`. I want to give my early su
 
 [Take a look at my Dapp](https://whitelist-danibachsl.vercel.app/) 🚀
 
+Remember having installed Metamask! :D
+
 ---
 
 ## Build
